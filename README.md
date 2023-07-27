@@ -26,7 +26,7 @@ If you would like to learn more or collaborate on future opportunities, please f
 
 
 ## Rapidfire  
-<div>
+
 
 - 🔭 I’m currently working on [SRO Points Calculator](https://github.com/woobrendan/points_calculator)  
   
@@ -35,8 +35,7 @@ If you would like to learn more or collaborate on future opportunities, please f
   
 
 - ❓ Ask me about my work place racing apps!  
-
-</div>  
+ 
 
 <br/>  
 
