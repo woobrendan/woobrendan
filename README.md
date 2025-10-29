@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Hello! I am an aspiring Software Developer transitioning my career from professional sports. After 9 great years of working in sports car racing, I decided to make a change and took a full stack web development bootcamp at Lighthouse Labs where in the span of 12 weeks I went from knowing nothing about coding to being able to develop my own functioning app.
+Hello! I am an aspiring Software Developer transitioning my career from professional motorsports. After 10 great years of working in sports car racing, I am looking to make a change and took a full stack web development bootcamp at Lighthouse Labs where in the span of 12 weeks I went from knowing nothing about coding to being able to develop my own functioning app.
 
 After my bootcamp I was able to identify areas of high stress and inefficiency at my racing job, and decided to build my own application to see if I could make work flow smoother. I designed my app Podium Assistant that removed the rush of preparing a last minute podium script and instead allowed for easily selectable winners that populated a script with all required information with the click of a button.
 
